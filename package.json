@@ -1,0 +1,27 @@
+{
+  "name": "verify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay-kum/verify-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinay-kum/verify-test/issues"
+  },
+  "homepage": "https://github.com/vinay-kum/verify-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  }
+}
