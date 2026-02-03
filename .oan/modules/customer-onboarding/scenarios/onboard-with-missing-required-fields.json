@@ -1,0 +1,11 @@
+{
+  "id": "124586e2-8b4f-4d7b-840a-027c5375dd02",
+  "name": "Onboard with missing required fields",
+  "slug": "onboard-with-missing-required-fields",
+  "description": "Submit the onboarding form with one or more mandatory fields empty to verify front-end and back-end validation prevents submission.",
+  "expectedOutcome": "Validation messages are displayed for missing required fields; onboarding case is not created; no backend API call is made.",
+  "status": "recorded",
+  "notes": "Test scenarios include missing companyName, missing email, and missing taxId. Validate error messaging, focus behavior, and that partial data is not saved.",
+  "createdAt": "2026-02-03T17:41:40.286Z",
+  "updatedAt": "2026-02-03T17:44:15.218Z"
+}

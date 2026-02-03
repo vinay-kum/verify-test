@@ -1,6 +1,7 @@
 {
   "items": [
     "basic",
-    "auth"
+    "auth",
+    "customer-onboarding"
   ]
 }

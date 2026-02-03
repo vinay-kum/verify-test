@@ -1,0 +1,11 @@
+{
+  "id": "5daaaa95-4a0f-4826-8fab-7b4b3645159c",
+  "name": "Onboard with maximum field length and special characters",
+  "slug": "onboard-with-maximum-field-length-and-special-char",
+  "description": "Submit onboarding data with maximum allowed lengths and include special characters to test input handling, storage, and sanitization.",
+  "expectedOutcome": "All fields within limits are accepted; data is stored after sanitization; no encoding, injection, or corruption issues; UI displays data correctly; downstream processes can proceed.",
+  "status": "draft",
+  "notes": "Test fields like companyName up to 255 chars, address up to 500 chars. Include unicode characters and symbols. Verify no truncation beyond limits and that backend stores correctly.",
+  "createdAt": "2026-02-03T17:41:46.430Z",
+  "updatedAt": "2026-02-03T17:41:46.430Z"
+}
