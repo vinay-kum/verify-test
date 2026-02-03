@@ -1,0 +1,1 @@
+This is AP Invoice Processing app where user can see the invoice assigned to them after it process by incoming email attachment and OCR is done to extract data. Here user fill the missing information, validate data  and enter coding as needed and finally it goes throug approval process . It integrate with Oracle EBS or Oracle Fusion to keep process in sync. 
