@@ -1,5 +1,6 @@
 {
   "name": "OAN Portal",
   "description": "This application for testing OAppsnet Website",
+  "baseUrl": "https://oappsnet.com",
   "aiEnabled": true
 }
